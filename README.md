@@ -5,7 +5,7 @@
 
 o    🔧 Languages & Tools: Java, Python, JavaScript, React, C#, Spring Boot, MIPS, SQL, Linux
 
-o    🎯 Practices: Test-Driven Development (TDD), Object-Oriented Design, MVC, UML
+o    🎯 Practices: Test-Driven Development (TDD), Object-Oriented Design, Design Patterns, UML software design
 
 o    🧠 AI & Research: Trained neural networks (PyTorch), simulated heuristic-based AI gameplay, and researched AI-human alignment in game mechanics
 
