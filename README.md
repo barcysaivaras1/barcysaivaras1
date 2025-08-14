@@ -13,7 +13,7 @@ o    AI & Research: Trained neural networks (PyTorch), simulated heuristic-based
 
 o    Expense Tracker (React + Python) – Led a 7-person team to build a full-stack expense app, awarded Top Software Engineering Project by FDM Group.
 
-o    CIFAR-10 Classifier – Built a PyTorch neural network achieving 87% accuracy on image classification.
+o    CIFAR-10 Classifier – Built a PyTorch neural network following a specific detailed model and achieved 87% accuracy on image classification.
 
 o    Custom Compiler – Developed a full compiler in Java that translates COOL code into MIPS assembly.
 
